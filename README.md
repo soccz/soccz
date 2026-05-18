@@ -15,7 +15,7 @@ MS in Financial AI · Sogang University · Seoul
 I build quant trading systems and curate the finance × ML literature I read along the way. What I trust is out-of-sample performance, not how good a slide looks.
 
 **Interests** — factor models · AI-driven quant · interpretable ML  
-**Languages** — Korean (native) · English (fluent)  
+**Languages** — Korean (native) · English (conversational)  
 **Now** — tracking the AI frontier and porting what actually works into quant.
 
 Everything I make lives at **[soccz.github.io](https://soccz.github.io)**.
