@@ -1,26 +1,13 @@
-### soccz
+<div align="center">
 
-Finance × AI researcher.
-Everything I make ends up at **[soccz.github.io](https://soccz.github.io)**.
+# soccz
 
-```
-focus      quant trading · factor models · LLM × finance
-stack      python · pytorch · duckdb · r · latex
-languages  korean (native) · english (fluent)
-based in   seoul
-```
+**Finance × AI researcher.**  
+Building quant trading systems that hold out-of-sample.
 
-#### Recently on the site
+<br>
 
-→ [**prelude**](https://soccz.github.io/projects/prelude) — daily KRW-crypto pump detector (Telegram at 08:30 KST)
-→ [**papers**](https://soccz.github.io/projects/papers) — automated arXiv curator for finance × AI
-→ [**market-impact-v2**](https://soccz.github.io/projects/market-impact-v2) — order-flow impact modeling
-→ [**xsec-alpha**](https://soccz.github.io/projects/xsec-alpha) — cross-section factor research
+[![site](https://img.shields.io/badge/soccz.github.io-c4724e?style=for-the-badge&logo=safari&logoColor=white)](https://soccz.github.io)
+[![email](https://img.shields.io/badge/ether9073%40gmail.com-5a7a96?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ether9073@gmail.com)
 
-[→ full list (40+ projects)](https://soccz.github.io)
-
-#### Notes
-
-I prefer results that hold out-of-sample over papers that look good on a slide. If something here helps your own work, that's the point.
-
-<sub>· [soccz.github.io](https://soccz.github.io) · ether9073@gmail.com ·</sub>
+</div>
